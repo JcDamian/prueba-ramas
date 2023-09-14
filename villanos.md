@@ -5,5 +5,5 @@
 4. Dumsday
 5. Ares
 6. Darkseid
-7. Enemigo 1
-8. Enemigo 2
+7. Brainiac
+8. Siniestro
